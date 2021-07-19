@@ -6,3 +6,6 @@ As first, you should install modules getmac, getpass, requests etc. Just use com
 
 Setup WEBHOOK_URL and PING_ME
 You are ready, please, don't rat another people, this is bad... 🥺
+
+
+thanks to wodxgod/Discord-Token-Grabber for code skeleton
